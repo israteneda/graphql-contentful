@@ -1,5 +1,5 @@
 import useContenful from "./hooks/use-contentful";
-import Person from "./components/person";
+import Person from "./components/Person";
 import "./App.css";
 import Bookmarks from "./components/Bookmarks";
 import { useState } from "react";
